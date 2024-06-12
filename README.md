@@ -52,3 +52,13 @@ ELIMINAR EN POSTMAN CON DELETE:
 
 
 ![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/66c58cd5-3845-4d17-812c-3dbb5a0a1945)
+
+## SECURITY
+
+![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/a29e2f04-5cde-4425-9aeb-fffa82a0c9b5)
+
+POR QUE USAMOS ESE? 
+
+![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/98c296c8-38d9-4d91-8c83-6c408ebde86d)
+
+
