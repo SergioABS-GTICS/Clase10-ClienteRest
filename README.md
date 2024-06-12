@@ -46,4 +46,9 @@ Para PathVariable:
 
 ![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/63609321-4bd9-4163-8359-9e6bab11a25b)
 
+ELIMINAR EN POSTMAN CON DELETE:
 
+![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/5010b020-9d94-4204-a98e-5398abff7365)
+
+
+![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/66c58cd5-3845-4d17-812c-3dbb5a0a1945)
