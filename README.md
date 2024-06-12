@@ -21,4 +21,7 @@ Luego crear la vista teniendo en cuenta los nombres del entity
 
 ## Editar (Primero mandar a vista con los datos seteados y luego actualizar)
 
+![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/71b482a6-a92a-4784-b120-40910402b9ed)
+
+
 ![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/d6b01eaa-f4a5-495e-84c9-8fbba8d41668)
