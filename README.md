@@ -37,3 +37,13 @@ Luego crear la vista teniendo en cuenta los nombres del entity
    En la propia vista tenemos el boton que redirige al "save" y guardamos.
 3) En el controller con url "save" guardamos el producto
    En el ProductoDao implementamos si guardamos como creando o como actualizando
+
+Para RequestParam:
+
+![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/6e250ef9-e8b8-4e31-9c98-1e8f3f8f4929)
+
+Para PathVariable:
+
+![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/63609321-4bd9-4163-8359-9e6bab11a25b)
+
+
