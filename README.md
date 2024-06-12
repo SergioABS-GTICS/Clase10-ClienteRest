@@ -11,3 +11,9 @@ Primero consummos a partir del service que nos dan según la documentación y ha
 Luego, hacemos los Daos (Se le asigna component):
 
 ![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/28dfa297-648e-452b-be80-e5f7ae04705e)
+
+Luego crear la vista teniendo en cuenta los nombres del entity
+
+## Crear o Editar (Save)
+
+![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/e04397de-6172-4848-8197-bb2cabd90b04)
