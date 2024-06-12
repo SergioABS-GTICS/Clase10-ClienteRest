@@ -26,10 +26,14 @@ Luego crear la vista teniendo en cuenta los nombres del entity
 
 ![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/d6b01eaa-f4a5-495e-84c9-8fbba8d41668)
 
-1) Creamos una clase DTO en base al consumo:
+1) Creamos una clase DTO en base al consumo (No coincide con el Entity):
 
    ![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/1284aab2-58bb-4300-86bc-c755a6fb7aa2)
 
 
     ![image](https://github.com/SergioABS-GTICS/Clase10-ClienteRest/assets/154263057/b696cc59-fd75-4c6c-b432-0cac4c5509ba)
-2) 
+   
+2) Hacer la vista, mandar por model si necesitamos listas y mandar el producto
+   En la propia vista tenemos el boton que redirige al "save" y guardamos.
+3) En el controller con url "save" guardamos el producto
+   En el ProductoDao implementamos si guardamos como creando o como actualizando
